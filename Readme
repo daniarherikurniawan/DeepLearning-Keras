@@ -1,0 +1,4 @@
+jupyter notebook
+
+set backend theano/tensorflow
+
